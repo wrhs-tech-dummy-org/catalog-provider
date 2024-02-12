@@ -11,3 +11,5 @@ gem "redis", "~> 5.1"
 gem "pg", "~> 1.5"
 
 gem "nokogiri", "~> 1.16"
+
+gem "sidekiq", "~> 7.2"
