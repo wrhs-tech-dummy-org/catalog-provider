@@ -133,7 +133,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  nokogiri
+  nokogiri (~> 1.16)
   pg (~> 1.5)
   rails (>= 5.0.0, < 6)
   redis (~> 5.1)
